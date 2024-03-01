@@ -17,7 +17,7 @@ My primary goals for this learning journey include:
 
 ## Learning Resources
 
-I will be utilizing a variety of resources to aid my learning, including the official Rust documentation, online tutorials, forums, and community discussions. I will share summaries, notes, and key takeaways from these resources, along with my personal insights.
+I will be utilizing a variety of resources to aid my learning, including the official Rust documentation (https://www.rust-lang.org/) . I will share summaries, notes, and key takeaways from these resources, along with my personal insights.
 
 ## Projects
 
